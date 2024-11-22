@@ -4,27 +4,6 @@ import openjij as oj
 import itertools
 import pandas as pd
 
-# 科目の定義
-node_label = ["基礎数学Ⅰ(1)", "Webプログラミング(1)", "情報リテラシー(1)", "人間工学(1)", "データ構造", "プログラミング基礎(1)", "情報リテラシー(2)", "Webプログラミング(2)", "プログラミング基礎(2)", "電子計算機概論", "人間工学(2)", "解析演習", "情報理工学概論", "基礎数学Ⅰ(2)", "映像制作技術論"]
-n = len(node_label)
-
-# 先生の定義
-person = ['江本', '菅野', '三宅', '北川', '秋山', '浅山', '柳', '山田', '木戸', '劉']
-num_person = len(person)
-
-# 各先生の担当講義
-emoto = [0, 12, 13, 14]
-kanno = [0, 1, 7, 12]
-miyake = [2, 6, 12]
-kitagawa = [2, 5, 6, 8, 12]
-akiyama = [2, 6, 9, 12]
-asayama = [4, 5, 8, 12]
-yanagi = [5, 8, 11, 12]
-yamada = [3, 5, 8, 10, 12]
-kido = [4, 5, 8, 12]
-ryu = [9, 12]
-sub_P = [emoto, kanno, miyake, kitagawa, akiyama, asayama, yanagi, yamada, kido, ryu]
-
 # 学年の定義
 grade = ['1年生', '2年生']
 num_grade = len(grade)
