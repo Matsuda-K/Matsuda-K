@@ -4,6 +4,9 @@
 🚩 ここでは、勉強したことのアウトプット（趣味の範囲）が主な目的です。  
 😊 量子コンピュータ以外に、AIやデータサイエンスにも興味があります。
 
+![image](https://github.com/user-attachments/assets/1f935bf6-e197-404f-87f8-eab53f200685)
+![image](https://github.com/user-attachments/assets/56537ad1-1d63-4b1e-adf6-023d50a4acbe)
+
 <!---
 Matsuda-K/Matsuda-K is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
